@@ -1,0 +1,1 @@
+C:/questasim64_2024.2/win64/VisualizerRls/bin/viscom.exe -nolock -quiet -jmem_size 85672224 work.top -quiet -auto_acc_if_foreign -work work -allow_unnamed -o _opt2 -id 1-4cd71798b2a4-6853b05b-37b-53ac {+__design_bin_path+//thoth.cecs.pdx.edu/Home03/jaswanth/Desktop/Practice/FPU/Design & UVM/TEST_uCode}

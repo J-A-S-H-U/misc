@@ -1,0 +1,19 @@
+BEGIN 3:fpu_if:fast__2:work
+    valid :  1:top:fast:work
+    ready :  1:top:fast:work
+    clk :  1:top:fast:work
+    din1 :  1:top:fast:work
+    din2 :  1:top:fast:work
+    result :  1:top:fast:work
+    reset :  1:top:fast:work
+    cmd :  1:top:fast:work
+END 
+BEGIN 3:fpu_if:fast__1:work
+    din2 :  1:fpu_top_sv_unit:fast:work
+    result :  1:fpu_top_sv_unit:fast:work
+    reset :  1:fpu_top_sv_unit:fast:work
+    valid :  1:fpu_top_sv_unit:fast:work
+    cmd :  1:fpu_top_sv_unit:fast:work
+    din1 :  1:fpu_top_sv_unit:fast:work
+    ready :  1:fpu_top_sv_unit:fast:work
+END 
